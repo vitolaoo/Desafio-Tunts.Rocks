@@ -18,7 +18,9 @@ Arredondar o resultado para o próximo número inteiro (aumentar) caso necessár
 Os textos do código fonte (atributos, classes, funções, comentários e afins) devem ser escritos  em inglês, salvo os identificadores e textos pré-definidos nesse desafio. 
 
 Para rodar o código certifique de rodar esses comandos no terminal afim de instalar as bibliotecas necessárias:
+
 pip install gspread
+
 pip install oauth2client
 
 Espero que aprovem :)
